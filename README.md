@@ -1,22 +1,26 @@
 # Hi 👋, I'm Asmit Mishra
 
-🎓 BTech 3rd Year Student  
-💻 Web Developer  
+🎓 BTech 4th Year Student  
+💻 Web Developer
 🚀 Currently learning DSA  
 
 ---
 
 ## 🛠 Skills
 - HTML, CSS, JavaScript  
-- Git & GitHub  
+- Git & GitHub
+- React
+- Express.js
+- Node.js
+- mongodb
 - Basic DSA  
 
 ---
 
 ## 📂 Projects
-- Todo List App  
 - Music Player  
-- Tic Tac Toe Game  
+- criminal dashboard board
+- student management system 
 
 ---
 
